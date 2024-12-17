@@ -1,0 +1,14 @@
+﻿  MazaGameRaylib.cpp
+C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\MazaGameRaylib\MazaGameRaylib.cpp(159,53): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\MazaGameRaylib\MazaGameRaylib.cpp(159,40): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\MazaGameRaylib\MazaGameRaylib.cpp(370,52): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\MazaGameRaylib\MazaGameRaylib.cpp(370,65): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\MazaGameRaylib\MazaGameRaylib.cpp(371,54): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\MazaGameRaylib\MazaGameRaylib.cpp(371,67): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\MazaGameRaylib\MazaGameRaylib.cpp(372,54): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\MazaGameRaylib\MazaGameRaylib.cpp(372,67): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\MazaGameRaylib\MazaGameRaylib.cpp(373,55): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\MazaGameRaylib\MazaGameRaylib.cpp(373,68): warning C4244: 'argument' : conversion de 'float' en 'const unsigned __int64', perte possible de données
+  MazaGameRaylib.vcxproj -> C:\Users\ThinkUp\Desktop\MazeGameRaylib\MazaGameRaylib\x64\Debug\MazaGameRaylib.exe
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.
