@@ -23,7 +23,7 @@ Ce projet est un jeu de labyrinthe développé en C++ avec la bibliothèque grap
 - **`demo/`** : Contient une vidéo de démonstration du jeu.
 - **`docs/`** : Contient le rapport du projet au format PDF.
 
-## Instructions pour exécuter le projet
+## Instructions
 
 ### Prérequis
 
